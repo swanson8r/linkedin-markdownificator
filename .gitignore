@@ -1,6 +1,6 @@
 output.md
 
-/.env
+.env
 selenium/
 /__pycache__
 *.html
@@ -69,3 +69,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# MacOS system files
+.DS_Store
